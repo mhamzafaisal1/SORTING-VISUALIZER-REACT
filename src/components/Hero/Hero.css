@@ -1,0 +1,17 @@
+.box {
+    background-color: #4D96FF;
+    height: 100vh;
+   
+}
+
+.card {
+display: flex;
+    justify-content: center;
+    padding-top: 30px;
+    
+}
+.card2{
+    padding-top: 30px;
+padding-left: 10px;
+padding-top: 10px;
+}

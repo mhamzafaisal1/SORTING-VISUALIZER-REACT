@@ -1,8 +1,27 @@
-.App {
-  text-align: center;
+.outline {
+  background-color: black;
 }
 
-.App-logo {
+.container {
+  background-image: url("../src/assets/banner.svg");
+  /* width: 100vh; */
+  height: 100vh;
+}
+
+.container2 {
+  /* background-image: url("../src/assets/banner03.svg"); */
+  /* background-color: blue; */
+    /* width: 100vh; */
+    height: 100vh;
+  padding-top: 10px;
+}
+
+
+/* .App {
+  text-align: center;
+} */
+
+/* .App-logo {
   height: 40vmin;
   pointer-events: none;
 }
@@ -35,4 +54,4 @@
   to {
     transform: rotate(360deg);
   }
-}
+} */
