@@ -1,3 +1,7 @@
+# SORTING VISUALIZER IS A PROJECT TO ACTUALLY SEE THE ALGORITHMS THAT ARE USED BEING " PUT TO WORK ". 
+THE WEB APPLICATION FOR THIS CAN BE ACCESSED BY THIS LINK [http://alogrithmsorting-visualizer.netlify.app](http://alogrithmsorting-visualizer.netlify.app).
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
